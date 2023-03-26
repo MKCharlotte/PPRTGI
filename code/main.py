@@ -12,9 +12,6 @@ import argparse
 import matplotlib
 matplotlib.use('Agg')
 
-#"Caenorhabditis elegans""Drosophila melanogaster""Homo sapiens""Mus musculus"
-#"Rattus norvegicus""Saccharomyces cerevisiae"
-# SAGEConv,GATConv,GraphConv,APPNPConv
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--k', default='8')
