@@ -10,4 +10,15 @@ Transcription factors (TFs) regulation is required for the vast majority of biol
 * node2vec==0.4.3
 * numpy=1.19.2
 
+## Dataset
+- DNA Sequences
+    - [Caenorhabditis elegans (200MB)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/985/GCF_000002985.6_WBcel235/GCF_000002985.6_WBcel235_genomic.gbff.gz)
+    - [Drosophila melanogaster (283MB)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/215/GCF_000001215.4_Release_6_plus_ISO1_MT/GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.gbff.gz)
+    - [Homo sapiens (4.43GB)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.gbff.gz)
+    - [Mus musculus (3.53GB)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/635/GCF_000001635.27_GRCm39/GCF_000001635.27_GRCm39_genomic.gbff.gz)
+    - [Rattus norvegicus (3.36GB)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/227/675/GCF_015227675.2_mRatBN7.2/GCF_015227675.2_mRatBN7.2_genomic.gbff.gz)
+    - [Saccharomyces cerevisiae (31.3MB)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/045/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.gbff.gz)
+- Proteomic and genetic associations
+    - [BIOGRID-ORGANISM-4.4.221.tab3.zip (106.81MB)](https://downloads.thebiogrid.org/File/BioGRID/Release-Archive/BIOGRID-4.4.221/BIOGRID-ORGANISM-4.4.221.tab3.zip)
+
 
